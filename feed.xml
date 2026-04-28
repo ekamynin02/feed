@@ -5,7 +5,7 @@
   <offer internal-id="LT-01">
     <type>sale</type>
     <property-type>residential</property-type>
-    <category>house</category>
+   <category>дом</category>
 
     <creation-date>2026-04-23T12:00:00+03:00</creation-date>
 
